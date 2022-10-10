@@ -19,7 +19,7 @@
 <br><br> <br>
 
 <h3>Things I code with</h3>
-<p>
+<p width="200" align="center">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-8DD6F9?style=flat-square&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-javaScript-de9d27?style=flat-square&logo=javascript&logoColor=white" />
