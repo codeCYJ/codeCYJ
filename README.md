@@ -18,7 +18,7 @@
 </p>
 <br><br> <br>
 
-<h3>Things I code with</h3>
+<h3 align="center">Things I code with</h3>
 <p width=200 align="center">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-8DD6F9?style=flat-square&logo=css3&logoColor=white" />
@@ -26,14 +26,15 @@
   <img alt="jquery" src="https://img.shields.io/badge/-jQuery-0865a7?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+ <br>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-<h3>Study</h3>
-<p>
+<h3 align="center">Study</h3>
+<p align="center">
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next&logoColor=ffffff" />
   <img alt="SonarQube" src="https://img.shields.io/badge/-sonarQube-abcce3?style=flat-square&logo=sonarqube&logoColor=ffffff" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-d2d2d2?style=flat-square&logo=jenkins&logoColor=black" />
