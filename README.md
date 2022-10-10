@@ -29,7 +29,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=holi-theme&border=61dafb&hide_border=true"
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=tokyonight_duo&border=61dafb&hide_border=true"
       https://github-readme-streak-stats.herokuapp.com/demo/?user=codeCYJ&theme=holi-theme&hide_border=false&border_radius=4.5&locale=en&date_format=&properties=background
       alt="yongjun-choi" />
     </a>
