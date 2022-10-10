@@ -10,9 +10,6 @@
 <p align="center">
   Hi, I'm YongJun Choi, Front-End Developer from Korea.
   <br>
-  <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
   💻 I love writing code and learn anythings about it
   <br>
   📚 I’m currently learning how to build SSR Website with Next.js
