@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+YONGJUN+CHOI....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+YONGJUN+CHOI;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -42,8 +42,6 @@
 </p>
 <br><br><br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -59,6 +57,4 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
 </p>
-
-<hr>
 
